@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactstrap-card/static/css/main.2d861942.chunk.css",
+    "main.js": "/reactstrap-card/static/js/main.772c46fd.chunk.js",
+    "main.js.map": "/reactstrap-card/static/js/main.772c46fd.chunk.js.map",
+    "runtime-main.js": "/reactstrap-card/static/js/runtime-main.d23e0fb8.js",
+    "runtime-main.js.map": "/reactstrap-card/static/js/runtime-main.d23e0fb8.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/reactstrap-card/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f337dfe7.chunk.js": "/reactstrap-card/static/js/2.f337dfe7.chunk.js",
+    "static/js/2.f337dfe7.chunk.js.map": "/reactstrap-card/static/js/2.f337dfe7.chunk.js.map",
+    "index.html": "/reactstrap-card/index.html",
+    "precache-manifest.f8f819b0232216b24d614d074e49d0d7.js": "/reactstrap-card/precache-manifest.f8f819b0232216b24d614d074e49d0d7.js",
+    "service-worker.js": "/reactstrap-card/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/reactstrap-card/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2d861942.chunk.css.map": "/reactstrap-card/static/css/main.2d861942.chunk.css.map",
+    "static/js/2.f337dfe7.chunk.js.LICENSE.txt": "/reactstrap-card/static/js/2.f337dfe7.chunk.js.LICENSE.txt",
+    "static/media/256x186.svg": "/reactstrap-card/static/media/256x186.a399e1d0.svg",
+    "static/media/318x180.svg": "/reactstrap-card/static/media/318x180.d5ff1945.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d23e0fb8.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f337dfe7.chunk.js",
+    "static/css/main.2d861942.chunk.css",
+    "static/js/main.772c46fd.chunk.js"
+  ]
+}
