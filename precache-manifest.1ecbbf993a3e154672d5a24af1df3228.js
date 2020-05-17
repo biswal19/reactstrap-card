@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "897a33d162da3d95f3aceed672e4dc67",
+    "revision": "74cff592be3bf3377f680032056dd962",
     "url": "/reactstrap-card/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactstrap-card/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "acbd9877b99baa6cabff",
-    "url": "/reactstrap-card/static/css/main.dd18d389.chunk.css"
+    "revision": "028f87c9d0e6172d3e19",
+    "url": "/reactstrap-card/static/css/main.c94ce616.chunk.css"
   },
   {
     "revision": "3b5d9f0eeeb61a449c5f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactstrap-card/static/js/2.e2300a4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acbd9877b99baa6cabff",
-    "url": "/reactstrap-card/static/js/main.23b29b87.chunk.js"
+    "revision": "028f87c9d0e6172d3e19",
+    "url": "/reactstrap-card/static/js/main.283b2122.chunk.js"
   },
   {
     "revision": "0f11d5884695de631e87",
