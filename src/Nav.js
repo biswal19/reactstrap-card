@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.css';
 import {
   Collapse,
   Navbar,
@@ -16,7 +17,7 @@ const Example = (props) => {
   const toggle = () => setIsOpen(!isOpen);
 
   return (
-    <div>
+    <div className="Nav">
       <Navbar color="light" light expand="md">
         <NavbarBrand href="/"><b>3M</b>Innovation</NavbarBrand>
         <NavbarToggler onClick={toggle} />
@@ -33,7 +34,7 @@ const Example = (props) => {
               <NavLink href="/components/">Technology</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/components/">Correct with 3M</NavLink>
+              <NavLink href="/components/">Connect with 3M</NavLink>
             </NavItem>
             
           </Nav>

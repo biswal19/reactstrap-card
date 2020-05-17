@@ -6,6 +6,8 @@ In the project directory, you can run:
 
 ### `npm install --save bootstrap`
 ### `npm install --save reactstrap react react-dom`
+### `npm install mdbreact`
+
 
 ## Available Scripts
 

@@ -8,7 +8,8 @@ import {
 import img1 from './assets/image/318x180.svg'
 import img2 from './assets/image/256x186.svg'
 import TopNav from './Nav';
-
+import LandingPage from './LandingPage';
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
     
       <div className="overflow">
       <TopNav />
-    
+      <LandingPage />  
       
      
         <CardDeck>
@@ -269,6 +270,7 @@ function App() {
         </Col>
       </Row>
       </div>
+      <Footer />
     </div>
   );
 }
