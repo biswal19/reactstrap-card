@@ -30,7 +30,7 @@ h2{
   padding-bottom: 10%;
   font-size: 20px;
   font-weight: bold;
-  line-height: 10;
+ 
 }
 
 .Navbar{
@@ -38,21 +38,60 @@ h2{
   background-color: rgb(201, 132, 30);
 }
 
-p{
-  text-align: center;
-  padding-bottom: 20%;
-  display: block;
-  text-indent: 50px;
-  letter-spacing: 3px;
-}
 
-div.a {
-  text-align: center;
-  font-weight: bold;
-}
+
+
 
 .Footer{
   padding-top: 1%;
   padding-bottom: 1%;
   letter-spacing:3px ;
+}
+/* Hero */
+.defaultHero,
+.roomsHero {
+  min-height: calc(100vh - 66px);
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.roomsHero {
+  
+  min-height: 60vh;
+}
+/* End of Hero */
+/* Banner */
+.banner {
+  display: inline-block;
+  background:white;
+  color: var(--mainWhite);
+  padding: 2rem 1rem;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: var(--mainSpacing);
+  
+  
+}
+.banner h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.banner div {
+  width: 10rem;
+  height: 5px;
+  background: var(--primaryColor);
+  margin: 1.7rem auto;
+}
+.banner p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  margin-top: 8rem;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
 }
