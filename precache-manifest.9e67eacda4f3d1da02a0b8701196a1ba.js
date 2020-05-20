@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef19ad0982e12888e4d3ffbac8a75049",
+    "revision": "3043b792c3c6663e0c6b8325d5ba8078",
     "url": "/reactstrap-card/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactstrap-card/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "7d2ebff2ec0e1e569260",
+    "revision": "e545303fadb6118780d9",
     "url": "/reactstrap-card/static/css/main.b219f55c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactstrap-card/static/js/2.e2300a4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d2ebff2ec0e1e569260",
-    "url": "/reactstrap-card/static/js/main.d2ef4640.chunk.js"
+    "revision": "e545303fadb6118780d9",
+    "url": "/reactstrap-card/static/js/main.145205fb.chunk.js"
   },
   {
     "revision": "0f11d5884695de631e87",
